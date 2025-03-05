@@ -1,0 +1,3 @@
+curl -fsSL https://ollama.com/install.sh | sh
+   nohup ollama serve &
+   ollama run phi3  # 运行Phi-3-Mini模型
